@@ -1,10 +1,7 @@
 # Electric Motor Temperature Prediction Using Machine Learning
-
 ## Project Overview
 This project focuses on predictive maintenance by forecasting the temperature of electric motors in industrial settings using machine learning. By analyzing historical operational data such as motor load, voltage, current, and environmental factors, the model predicts motor temperatures to prevent overheating, avoid failures, optimize maintenance schedules, and enhance operational efficiency.
-
 ## Use Cases
-
 - **Preventive Maintenance:** Enables timely maintenance by predicting potential overheating, thus reducing downtime and costly failures.
 - **Energy Efficiency:** Helps optimize energy usage by keeping motors at optimal temperatures.
 - **Equipment Reliability:** Enhances reliability and lifespan of motors in critical industries like automotive production and HVAC.
