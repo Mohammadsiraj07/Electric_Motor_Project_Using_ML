@@ -40,7 +40,7 @@ This project implements a machine learning-based predictive maintenance system t
 - Web application creation using Flask and HTML
 
 ## Dataset & Model Files
-- Dataset: `measures_v2.csv` (not included due to size constraints)
+- Dataset: `measures_v2.csv` (not included due to size constraints)(Dataset link : https://drive.google.com/file/d/1vDv4KLvUxlsebseNY_JMNkrNRYu3smjs/view?usp=drivesdk)
 - Model files (`.pkl`) are generated locally via:
   ```bash
   python train_model.py
