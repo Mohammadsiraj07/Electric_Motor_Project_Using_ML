@@ -51,7 +51,7 @@ This project implements a machine learning-based predictive maintenance system t
 ## Running the Project
 
 ```bash
-git clone https://github.com/Geethika-dasi/Electric_Motor_Project.git
+git clone https://github.com/Mohammadsiraj07/Electric_Motor_Project_Using_ML.git
 pip install -r requirements.txt
 python app.py
 ```
